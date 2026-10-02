@@ -1,0 +1,12 @@
+{
+  "2026-10-02": {
+    "warning_count": 289,
+    "error_count": 1,
+    "skipped_count": 0,
+    "sample_warnings": [
+      "10:22:19 WARNING openstates: no session provided, using active sessions: {'222'}",
+      "10:22:21 WARNING openstates: unknown bill A4345 in document database",
+      "10:22:21 WARNING openstates: unknown bill A5490 in document database"
+    ]
+  }
+}
