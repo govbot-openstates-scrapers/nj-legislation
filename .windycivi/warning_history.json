@@ -8,5 +8,13 @@
       "10:22:21 WARNING openstates: unknown bill A4345 in document database",
       "10:22:21 WARNING openstates: unknown bill A5490 in document database"
     ]
+  },
+  "2026-10-05": {
+    "warning_count": 0,
+    "error_count": 3,
+    "skipped_count": 0,
+    "sample_warnings": [],
+    "failure_type": "N2_CONNECTIVITY",
+    "error_summary": "        chunked=chunked, "
   }
 }
